@@ -6,17 +6,15 @@
     "slug": "alexandrepeter-fr",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 288,
-    "timeDay": 360,
-    "timeWeek": 336,
-    "timeMonth": 310,
-    "timeYear": 288,
-    "dailyMinutesDown": {
-      "2025-08-25": 7
-    }
+    "timeDay": 550,
+    "timeWeek": 349,
+    "timeMonth": 324,
+    "timeYear": 289,
+    "dailyMinutesDown": {}
   }
 ]
